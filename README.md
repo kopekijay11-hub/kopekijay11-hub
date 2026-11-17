@@ -22,4 +22,6 @@ Python · Java 21 · Spring Boot · FastAPI · PostgreSQL · SQLite · pytest ·
 
 ## Contact
 
-Best reached through GitHub. Open to backend, platform, and developer-tooling roles — remote from Ottawa, or Ottawa-based.
+Email: kopekijay11@gmail.com · Ottawa, Canada
+
+Best reached by email or through GitHub. Open to backend, platform, and developer-tooling roles — remote from Ottawa, or Ottawa-based.
