@@ -1,14 +1,14 @@
-# Joshua Normandin
+# Joshua Normandin — Backend and Systems Engineer
 
-Self-taught software developer in Ottawa, Canada. I build autonomous systems — and the tooling that proves they work.
+Self-taught software developer in Ottawa, Canada. I build Java and Python systems with strong testing and operational discipline — and the tooling that proves they work. I am seeking backend, platform, or developer-tooling roles in Ottawa or remotely.
 
-## What I'm building
+## Projects
 
-**[OrbitAlgo](https://github.com/kopekijay11-hub/OrbitAlgo)** — Autonomous algorithmic trading system in Python (40,000+ lines, 2,100+ tests): multi-strategy engine, per-symbol configuration, layered risk breakers, and a pre-registered validation funnel where no strategy trades on a backtest's say-so alone. Architecture showcase; the production codebase is private.
-
-**[Agent Evaluation Harness](https://github.com/kopekijay11-hub/agent-eval-harness-showcase)** — A deterministic test bench for AI coding agents: frozen task batteries, tool-call grading, a failure taxonomy, and regression detection across prompt and model changes. Grading is code and statistics, pre-registered — the model is the subject, never the judge.
-
-**[Feedline](https://github.com/kopekijay11-hub/feedline)** — Scheduled feed-ingestion service in Java 21 / Spring Boot 3: RSS/Atom polling, PostgreSQL storage, REST API, Flyway migrations.
+| Project | What it is | Evidence | Status |
+|---|---|---|---|
+| [OrbitAlgo](https://github.com/kopekijay11-hub/OrbitAlgo) | Autonomous algorithmic trading system in Python — multi-strategy engine, per-symbol configuration, layered risk breakers, and a pre-registered validation funnel (SELECT → VALIDATE → sealed HOLDOUT) | Architecture, validation methodology, and audit summaries in the repo; the private production system it documents measures 40,000+ lines and 2,100+ tests, verified in the private environment | Runs autonomously on a MetaTrader 5 demo account; production codebase private by design |
+| [Feedline](https://github.com/kopekijay11-hub/feedline) | Scheduled feed-ingestion service — Java 21, Spring Boot 3, PostgreSQL 16, Flyway migrations, Maven build | Runnable from the repo (Docker Compose + Maven); Milestone 1 build report, design-decision log, and handoff notes included | Milestone 1 complete; further milestones in progress |
+| [Agent Evaluation Harness](https://github.com/kopekijay11-hub/agent-eval-harness-showcase) | Deterministic test bench for AI coding agents — frozen task batteries, tool-call grading, a failure taxonomy, and regression detection across prompt and model changes | Trace format, JSON Schema, a worked example trace, and measured results in the repo | In active development; first live grades recorded |
 
 ## How I work
 
@@ -20,6 +20,6 @@ Self-taught software developer in Ottawa, Canada. I build autonomous systems —
 
 Python · Java 21 · Spring Boot · FastAPI · PostgreSQL · SQLite · pytest · JUnit · Maven · Git · Linux · MetaTrader 5
 
-## Currently
+## Contact
 
-Open to software developer roles — remote from Ottawa, or Ottawa-based. Best reached through GitHub.
+Best reached through GitHub. Open to backend, platform, and developer-tooling roles — remote from Ottawa, or Ottawa-based.
