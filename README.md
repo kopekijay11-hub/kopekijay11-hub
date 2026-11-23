@@ -24,6 +24,6 @@ Python · Java 21 · Spring Boot · FastAPI · PostgreSQL · SQLite · Kafka · 
 ## Contact
 
 Email: kopekijay11@gmail.com · Ottawa, Canada
-Hugging Face: [huggingface.co/kopekijay11](https://huggingface.co/kopekijay11) · X: [@Josh56120517616](https://x.com/Josh56120517616)
+Hugging Face: [huggingface.co/kopekijay11](https://huggingface.co/kopekijay11) · X: [@kopekijay11](https://x.com/kopekijay11)
 
 Best reached by email or through GitHub. Open to backend, platform, and developer-tooling roles — remote from Ottawa, or Ottawa-based.
